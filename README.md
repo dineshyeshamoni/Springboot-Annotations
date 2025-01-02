@@ -17,39 +17,39 @@ Stereotype annotations
 
 Spring Core related Annotations:
 ----------------------------------------------------
-@Configuration
-@Bean
-@Autowired 
-@Qualifier 
-@Lazy 
-@Value 
-@PropertySource
-@ConfigurationProperties 
-@Profile
-@Scope
+1.  @Configuration
+2.  @Bean
+3.  @Autowired 
+4.  @Qualifier 
+5.  @Lazy 
+6.  @Value 
+7.  @PropertySource
+8.  @ConfigurationProperties 
+9.  @Profile
+10. @Scope
 
 REST API related Annotations:
 ------------------------------------------------
-@RestController
-@RequestMapping
-@GetMapping
-@PostMapping
-@PutMapping
-@DeleteMapping
-@RequestBody 
-@PathVariable
-@RequestParam
-@ControllerAdvice & @ExceptionHandler
+1.  @RestController
+2.  @RequestMapping
+3.  @GetMapping
+4.  @PostMapping
+5.  @PutMapping
+6.  @DeleteMapping
+7.  @RequestBody 
+8.  @PathVariable
+9.  @RequestParam
+10.  @ControllerAdvice & @ExceptionHandler
 
 Spring Data JPA related annotations:
 ------------------------------------------------------------
-@Entity
-@Table
-@Column
-@Transactional 
-@Entity class relationships 
-@OnetoOne 
-@OnetoMany 
-@ManytoOne
-@ManytoMany
+1.  @Entity
+2.  @Table
+3.  @Column
+4.  @Transactional 
+5.  @Entity class relationships 
+6.  @OnetoOne 
+7.  @OnetoMany 
+8.  @ManytoOne
+9.  @ManytoMany
 
