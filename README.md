@@ -1,14 +1,14 @@
 # Springboot-Annotations
 Listing the important annotations which developers deals with day to day code development.
 
-Spring Boot Main annotations
+Main annotations
 --------------------------------------------------
 1. @SpringBootApplication
 2. @ComponentScan
 3. @EanbleAutoConfiguration
 4. @Configuration
 
-Stereotype annotation
+Stereotype annotations
 ----------------------------------------
 1.  @Component
 2.  @Service
